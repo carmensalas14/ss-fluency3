@@ -13,18 +13,6 @@ users = [
     "producer": "Isao Takahata",
     "release_date": "1986",
     "rt_score": "95",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
   },
   {
@@ -35,18 +23,6 @@ users = [
     "producer": "Toru Hara",
     "release_date": "1988",
     "rt_score": "97",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/12cfb892-aac0-4c5b-94af-521852e46d6a"
   },
   {
@@ -57,29 +33,6 @@ users = [
     "producer": "Hayao Miyazaki",
     "release_date": "1988",
     "rt_score": "93",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
-      "https://ghibliapi.herokuapp.com/people/d5df3c04-f355-4038-833c-83bd3502b6b9",
-      "https://ghibliapi.herokuapp.com/people/3031caa8-eb1a-41c6-ab93-dd091b541e11",
-      "https://ghibliapi.herokuapp.com/people/87b68b97-3774-495b-bf80-495a5f3e672d",
-      "https://ghibliapi.herokuapp.com/people/d39deecb-2bd0-4770-8b45-485f26e1381f",
-      "https://ghibliapi.herokuapp.com/people/591524bc-04fe-4e60-8d61-2425e42ffb2a",
-      "https://ghibliapi.herokuapp.com/people/c491755a-407d-4d6e-b58a-240ec78b5061",
-      "https://ghibliapi.herokuapp.com/people/f467e18e-3694-409f-bdb3-be891ade1106",
-      "https://ghibliapi.herokuapp.com/people/08ffbce4-7f94-476a-95bc-76d3c3969c19",
-      "https://ghibliapi.herokuapp.com/people/0f8ef701-b4c7-4f15-bd15-368c7fe38d0a"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
-      "https://ghibliapi.herokuapp.com/species/74b7f547-1577-4430-806c-c358c8b6bcf5"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
   },
   {
@@ -90,18 +43,6 @@ users = [
     "producer": "Hayao Miyazaki",
     "release_date": "1989",
     "rt_score": "96",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
   },
   {
@@ -112,18 +53,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1991",
     "rt_score": "100",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
   },
   {
@@ -134,18 +63,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1992",
     "rt_score": "94",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
   },
   {
@@ -156,18 +73,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1994",
     "rt_score": "78",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c"
   },
   {
@@ -178,18 +83,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1995",
     "rt_score": "91",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
   },
   {
@@ -200,29 +93,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1997",
     "rt_score": "92",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/ba924631-068e-4436-b6de-f3283fa848f0",
-      "https://ghibliapi.herokuapp.com/people/ebe40383-aad2-4208-90ab-698f00c581ab",
-      "https://ghibliapi.herokuapp.com/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b",
-      "https://ghibliapi.herokuapp.com/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
-      "https://ghibliapi.herokuapp.com/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
-      "https://ghibliapi.herokuapp.com/people/34277bec-7401-43fa-a00a-5aee64b45b08",
-      "https://ghibliapi.herokuapp.com/people/91939012-90b9-46e5-a649-96b898073c82",
-      "https://ghibliapi.herokuapp.com/people/20e3bd33-b35d-41e6-83a4-57ca7f028d38",
-      "https://ghibliapi.herokuapp.com/people/8bccdc78-545b-49f4-a4c8-756163a38c91",
-      "https://ghibliapi.herokuapp.com/people/116bfe1b-3ba8-4fa0-8f72-88537a493cb9"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
-      "https://ghibliapi.herokuapp.com/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
-      "https://ghibliapi.herokuapp.com/species/f25fa661-3073-414d-968a-ab062e3065f7"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
   },
   {
@@ -233,18 +103,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "1999",
     "rt_score": "75",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/45204234-adfd-45cb-a505-a8e7a676b114"
   },
   {
@@ -255,18 +113,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2001",
     "rt_score": "97",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
   },
   {
@@ -277,18 +123,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2002",
     "rt_score": "89",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
   },
   {
@@ -299,18 +133,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2004",
     "rt_score": "87",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
   },
   {
@@ -321,18 +143,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2006",
     "rt_score": "41",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/112c1e67-726f-40b1-ac17-6974127bb9b9"
   },
   {
@@ -343,18 +153,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2008",
     "rt_score": "92",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/758bf02e-3122-46e0-884e-67cf83df1786"
   },
   {
@@ -365,18 +163,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2010",
     "rt_score": "95",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/2de9426b-914a-4a06-a3a0-5e6d9d3886f6"
   },
   {
@@ -387,18 +173,6 @@ users = [
     "producer": "Toshio Suzuki",
     "release_date": "2011",
     "rt_score": "83",
-    "people": [
-      "https://ghibliapi.herokuapp.com/people/"
-    ],
-    "species": [
-      "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-    ],
-    "locations": [
-      "https://ghibliapi.herokuapp.com/locations/"
-    ],
-    "vehicles": [
-      "https://ghibliapi.herokuapp.com/vehicles/"
-    ],
     "url": "https://ghibliapi.herokuapp.com/films/45db04e4-304a-4933-9823-33f389e8d74d"
   }
  ]
